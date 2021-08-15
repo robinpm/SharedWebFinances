@@ -3,7 +3,6 @@
 <html lang="en" dir="ltr">
 <?php include 'header.php' ?>
 
-
 <body>
     <div class="container">
         <div class="content"></div>
@@ -12,7 +11,7 @@
             <a href="./index.php">
                 <button>Home</button>
             </a>
-            <a href="sqlviewer.php">
+            <a href="./sqlviewer.php">
                 <button>Table Viewer</button>
             </a>
             <!----------------------------------------------------------------------------------------->
